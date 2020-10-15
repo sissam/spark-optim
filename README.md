@@ -1,4 +1,4 @@
-# spark-optim
+# Apache Spark optimization
 Spark optimizations techniques
 Apache spark is a powerful and effecient big data tool, it's ability to use in memory computing, it's flexibility and the large number of operators it offers to treat data makes it a natural choice for big companies to treat their huge amounts of data
 
